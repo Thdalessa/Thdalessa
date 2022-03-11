@@ -19,11 +19,11 @@
  <h4>Herny's Bootcamp Videogame Individual Project (Soon to be deployed)</h4>
 <p>
   <img src='https://user-images.githubusercontent.com/89609966/156949395-70639f9c-e8b5-47cc-acfb-f05eb3fd264d.png' alt='LandingPage' height='150'>
-  <img src='https://user-images.githubusercontent.com/89609966/157922443-13c52ba1-f2a7-4799-8dd3-5862e3902a04.png' alt='HomePage' height='150'>
-  <img src='https://user-images.githubusercontent.com/89609966/157922928-9b953ffb-08df-464d-aa06-9bbba6c537dc.png' alt='SearchingByName' height='150'>
-  <img src='https://user-images.githubusercontent.com/89609966/157922564-f5a0f369-967f-4df3-a675-9526acfcec87.png' alt='AddingVideogame' height='150'>
-  <img src='https://user-images.githubusercontent.com/89609966/157923029-27e129d8-ef39-444e-9cbd-2acbdea69675.png' alt='FilteringByTypeOfCreation' height='150'>
-  <img src='https://user-images.githubusercontent.com/89609966/157922511-c274b6cd-0729-4038-a59f-7912fe12b8f1.png' alt='VideogameDetail' height='150'>
+  <img src='https://user-images.githubusercontent.com/89609966/157925611-e23d513b-910b-4067-a3ad-bdb75633447f.png' alt='HomePage' height='150'>
+  <img src='https://user-images.githubusercontent.com/89609966/157925887-78c5aca0-86e9-404d-bdd1-ce2f9d33022f.png' alt='SearchingByName' height='150'>
+  <img src='https://user-images.githubusercontent.com/89609966/157925511-ccece7df-6ef0-40af-92d6-191fae32c9c5.png' alt='AddingVideogame' height='150'>
+  <img src='https://user-images.githubusercontent.com/89609966/157926018-7621db7c-972c-493c-ba53-be79b98c3b49.png' alt='FilteringByTypeOfCreation' height='150'>
+  <img src='https://user-images.githubusercontent.com/89609966/157925525-ed70b179-5ddf-42ad-a907-bf1ca96f9505.png' alt='VideogameDetail' height='150'>
 </p>
 
 📫 How to reach me: thdalessa186@gmail.com  <br>

@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Thiago
 #### A Full-Stack Web Developer from Argentina to the 🌎
-![A Full-Stack Web Developer from Argentina to the 🌎](https://media3.giphy.com/media/cAs2Hk7kI29gEh24OV/giphy.gif?cid=790b76112af9494f8602cd84d3717c212da5fe356edf8acb&rid=giphy.gif&ct=g)
+<img src='https://user-images.githubusercontent.com/89609966/157936759-8defe059-8fa6-4d74-ab1d-a0dca4b66cad.gif' alt='Thdalessa_Banner' >
 
 🙋🏻‍♂️ I regard myself as a results-oriented person, who is always seeking knowledge and challenging professional experiences. <br>
 👨🏻‍💻 Passionate about programming, languages and having big demanding tasks on my to-do list. <br>
